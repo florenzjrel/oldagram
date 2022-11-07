@@ -28,7 +28,7 @@ Stretch goals:
 
 ### Screenshot
 
-[Oldagram](/oldagram.jpg)
+![Oldagram](oldagram.jpg)
 
 ### Links
 
